@@ -1,0 +1,11 @@
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\bin\Debug\FileEncryptor.exe.config
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\bin\Debug\FileEncryptor.exe
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\bin\Debug\FileEncryptor.pdb
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.csprojResolveAssemblyReference.cache
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.Form1.resources
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.Properties.Resources.resources
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.csproj.GenerateResource.Cache
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.exe
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.pdb
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\eggys\documents\visual studio 2015\Projects\FileEncryptor\FileEncryptor\bin\Debug\BouncyCastle.Crypto.pdb
